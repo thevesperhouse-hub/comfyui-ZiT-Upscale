@@ -9,6 +9,6 @@ requires-python = ">=3.10"
 Repository = "https://github.com/your-username/ComfyUI-ZiT-Upscale"
 
 [tool.comfy]
-PublisherId = "comfyui-zit-upscale"
+PublisherId = "AkiraXan"
 DisplayName = "ComfyUI ZiT Upscale"
 Icon = ""
