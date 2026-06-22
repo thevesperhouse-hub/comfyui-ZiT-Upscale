@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-zit-upscale"
+description = "Custom ComfyUI nodes to upscale and refine existing images with Z-Image Turbo."
+version = "0.1.0"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/your-username/ComfyUI-ZiT-Upscale"
+
+[tool.comfy]
+PublisherId = "comfyui-zit-upscale"
+DisplayName = "ComfyUI ZiT Upscale"
+Icon = ""
